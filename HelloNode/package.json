@@ -2,6 +2,7 @@
   "type": "module",
   "dependencies": {
     "alchemy-sdk": "^2.4.1",
+    "app-notify": "^2.3.0",
     "crypto-js": "^4.1.1",
     "dotenv": "^16.0.3",
     "ethers": "^5.7.2",

@@ -1,12 +1,12 @@
-2023/02/26-16:05:10.442 8a88 Recovering log #159
-2023/02/26-16:05:10.445 8a88 Level-0 table #162: started
-2023/02/26-16:05:10.576 8a88 Level-0 table #162: 281319 bytes OK
-2023/02/26-16:05:10.757 8a88 Delete type=0 #159
-2023/02/26-16:05:10.758 8a88 Delete type=3 #157
-2023/02/26-16:05:11.066 74a4 Moved #162 to level-1 281319 bytes OK: files[ 0 1 1 0 0 0 0 ]
-2023/02/26-16:05:11.096 74a4 Compacting 1@1 + 1@2 files
-2023/02/26-16:05:11.206 74a4 Generated table #164@1: 2079 keys, 648458 bytes
-2023/02/26-16:05:11.206 74a4 Compacted 1@1 + 1@2 files => 648458 bytes
-2023/02/26-16:05:11.238 74a4 compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/02/26-16:05:11.238 74a4 Delete type=2 #160
-2023/02/26-16:05:11.238 74a4 Delete type=2 #162
+2023/03/01-13:26:36.571 39d8 Recovering log #187
+2023/03/01-13:26:36.572 39d8 Level-0 table #190: started
+2023/03/01-13:26:36.677 39d8 Level-0 table #190: 90522 bytes OK
+2023/03/01-13:26:36.828 39d8 Delete type=0 #187
+2023/03/01-13:26:36.828 39d8 Delete type=3 #185
+2023/03/01-13:26:37.111 7a54 Moved #190 to level-1 90522 bytes OK: files[ 0 1 1 0 0 0 0 ]
+2023/03/01-13:26:37.136 7a54 Compacting 1@1 + 1@2 files
+2023/03/01-13:26:37.296 7a54 Generated table #192@1: 2378 keys, 717432 bytes
+2023/03/01-13:26:37.296 7a54 Compacted 1@1 + 1@2 files => 717432 bytes
+2023/03/01-13:26:37.336 7a54 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/01-13:26:37.337 7a54 Delete type=2 #188
+2023/03/01-13:26:37.337 7a54 Delete type=2 #190

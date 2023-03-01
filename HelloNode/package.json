@@ -1,6 +1,7 @@
 {
   "type": "module",
   "dependencies": {
+    "@vonage/server-sdk": "^3.0.20",
     "alchemy-sdk": "^2.4.1",
     "app-notify": "^2.3.0",
     "crypto-js": "^4.1.1",
